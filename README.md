@@ -1,6 +1,6 @@
 
 # News: QMaxUSE is here !!!
-# QMaxUSE
+# QMaxUSE [Mirror]
 
 ## 1. Overview
 **QMaxUSE** is an automated verification tool that is able to verify consistencies of a UML class diagram annotated with OCL invariants. QMaxUSE has two distinct features: (1) A query langauge that allows users to select parts of class diagram to be verified. (2) A powerful algorithm that is capable of performing concurrent verification on large number of complex OCL invariants. This is achieved by decomposing a large model into multiple queries.
